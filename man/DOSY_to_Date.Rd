@@ -2,8 +2,7 @@
 % Please edit documentation in R/functions.r
 \name{DOSY_to_Date}
 \alias{DOSY_to_Date}
-\title{DOSY_to_Date
-Takes a day of snow year and optionally a year, and returns a date}
+\title{Day of snow year to date}
 \usage{
 DOSY_to_Date(DOSY, year = 2020)
 }
@@ -16,6 +15,5 @@ DOSY_to_Date(DOSY, year = 2020)
 a date, formatted as 'ymd'
 }
 \description{
-DOSY_to_Date
 Takes a day of snow year and optionally a year, and returns a date
 }

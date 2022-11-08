@@ -2,8 +2,7 @@
 % Please edit documentation in R/functions.r
 \name{DOWY_to_Date}
 \alias{DOWY_to_Date}
-\title{DOWY_to_Date
-Takes a day of water year and optionally a year, and returns a date}
+\title{Day of water year to date}
 \usage{
 DOWY_to_Date(DOWY, year = 2020)
 }
@@ -16,6 +15,5 @@ DOWY_to_Date(DOWY, year = 2020)
 a date, formatted as 'ymd'
 }
 \description{
-DOWY_to_Date
 Takes a day of water year and optionally a year, and returns a date
 }

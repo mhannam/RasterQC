@@ -2,8 +2,7 @@
 % Please edit documentation in R/functions.r
 \name{DOY_to_Date}
 \alias{DOY_to_Date}
-\title{DOY_to_Date
-Takes a day of year and optionally a year, and returns a date}
+\title{Day of year to date}
 \usage{
 DOY_to_Date(DOY, year = 2020)
 }
@@ -16,6 +15,8 @@ DOY_to_Date(DOY, year = 2020)
 a date, formatted as 'ymd'
 }
 \description{
-DOY_to_Date
 Takes a day of year and optionally a year, and returns a date
+}
+\details{
+DOY_to_Date
 }
